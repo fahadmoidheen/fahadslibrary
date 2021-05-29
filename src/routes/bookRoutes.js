@@ -7,7 +7,7 @@ function router(nav) {
             title:"Tom and Jerry",
             author:"Joseph Barbera",
             genre:"Cartoon",
-            Img:"tom.jpg"
+            Img:"Tom.jpg"
         },
         {
             title:"Harry potter",
